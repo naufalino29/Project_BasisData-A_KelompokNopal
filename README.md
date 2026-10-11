@@ -1,5 +1,5 @@
 # RentGo
-Aplikasi Marketplace Untuk sewa kendaraan
+Kelompok Nopal · Product Requirements Document (PRD)
 ## 1. Latar Belakang
 Banyak pemilik kendaraan membiarkan kendaraanya mengganggur, sementara orang lain membutuhkan kendaraan untuk beberapa hari saja. Keduanya biasanya bertemu lewat group char atau media sosial, sehingga tarif, ketersediaan tanggal, dan riway
 
