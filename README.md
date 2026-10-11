@@ -78,3 +78,6 @@ Banyak pemilik kendaraan membiarkan kendaraanya mengganggur, sementara orang lai
 | ---- | ---------- | ----- |
 | 01 | Naufalino Ahmad Saputra | 4525210139 |
 | 02 | M. Akbar Raffael Ridho | 4525210085 |
+
+## 10. Diagram ERD
+[ERD](https://drive.google.com/file/d/1RQMBFyyWJ8u3B_B1vSXGAuz_QVndKdAo/view?usp=drive_link)
